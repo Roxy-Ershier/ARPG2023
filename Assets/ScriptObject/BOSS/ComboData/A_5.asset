@@ -1,0 +1,138 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba049dd3c6e377643b4b6c2639636c4b, type: 3}
+  m_Name: A_5
+  m_EditorClassIdentifier: 
+  _comboName: common5
+  _comboHitName:
+  - hit_light_F_body
+  - GhostSamurai_APose_Die05_Root
+  - F_FL
+  _comboParryName:
+  - DF_UP_R
+  - DF
+  - DF_UP_R
+  _damage: 70
+  _coldTime: 0
+  _comboPositionOffset: 1
+  _attackDistance:
+  - 3
+  - 3
+  - 4
+  _attackRange:
+  - 0.85
+  - 0.85
+  - 0.85
+  _shakeForce:
+  - 3
+  - 3
+  - 3
+  _shakeSpeed:
+  - 25
+  - 25
+  - 25
+  _shakeDuration:
+  - 0.15
+  - 0.15
+  - 0.15
+  PositionMove:
+  - serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 3
+      inSlope: -9.8477545
+      outSlope: -9.8477545
+      tangentMode: 34
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.12674735
+      value: 1.7518232
+      inSlope: -5.926922
+      outSlope: -5.926922
+      tangentMode: 34
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: -2.0060897
+      outSlope: -2.0060897
+      tangentMode: 34
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 0
+  - serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 34
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 34
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 0
+  - serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 3
+      inSlope: -9.8477545
+      outSlope: -9.8477545
+      tangentMode: 34
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.12674735
+      value: 1.7518232
+      inSlope: -5.926922
+      outSlope: -5.926922
+      tangentMode: 34
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: -2.0060897
+      outSlope: -2.0060897
+      tangentMode: 34
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 0
+  AnimationCurveDuration:
+  - 1
+  - 1
+  - 1

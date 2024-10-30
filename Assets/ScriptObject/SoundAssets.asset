@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fed0f010571f9b34e9d27878da075651, type: 3}
+  m_Name: SoundAssets
+  m_EditorClassIdentifier: 
+  _soundAssets:
+  - SoundType: 0
+    _audioClips:
+    - {fileID: 8300000, guid: f4f7b48729947954380622ddf241eee4, type: 3}
+    - {fileID: 8300000, guid: 3637c6d391b73b7418fac310c11a42da, type: 3}
+    - {fileID: 8300000, guid: 78c18435721e01942a3e066ad3699a9e, type: 3}
+  - SoundType: 1
+    _audioClips:
+    - {fileID: 8300000, guid: 2bcd4fcb05c69284299e1056ce3a5921, type: 3}
+    - {fileID: 8300000, guid: 76cea264fbc98bb48b91a18a3853aa88, type: 3}
+    - {fileID: 8300000, guid: 006411af5e3c8c644abaa8eb042ad5db, type: 3}
+    - {fileID: 8300000, guid: 4e8c7c01f33c5c744b82e69e53f36112, type: 3}
+    - {fileID: 8300000, guid: b933f9214ca866847bfdda0c87663b8c, type: 3}
+    - {fileID: 8300000, guid: 0b279bfa611a5ef46b77085644dcd13f, type: 3}
+    - {fileID: 8300000, guid: a9abdf656913c4643a96d7d287f55078, type: 3}
+    - {fileID: 8300000, guid: 9ad907b9e72402c4f9a34b94798eea22, type: 3}
+  - SoundType: 2
+    _audioClips:
+    - {fileID: 8300000, guid: b72d6bdf5989f774e97154a7abfe26dc, type: 3}
+    - {fileID: 8300000, guid: 0cbadaf64870c7e45aeb46179357b3ec, type: 3}
+    - {fileID: 8300000, guid: a84d7495caa3af943814cc0d0768ef58, type: 3}
+    - {fileID: 8300000, guid: 0cbadaf64870c7e45aeb46179357b3ec, type: 3}
+    - {fileID: 8300000, guid: a84d7495caa3af943814cc0d0768ef58, type: 3}
+  - SoundType: 3
+    _audioClips: []
+  - SoundType: 4
+    _audioClips:
+    - {fileID: 8300000, guid: 20ed15897fab3704887d2f2640f5f21f, type: 3}
+  - SoundType: 5
+    _audioClips:
+    - {fileID: 8300000, guid: 8828626ae406f894883ff4ca917c6569, type: 3}
+    - {fileID: 8300000, guid: 0828cd7467db0ce41aeeee854a19a1a5, type: 3}
+    - {fileID: 8300000, guid: 41bf27cfc165719469fc085ff62b5216, type: 3}
+    - {fileID: 8300000, guid: b75111edac29fe54eb34b1ae7d04e2a2, type: 3}
+  - SoundType: 6
+    _audioClips:
+    - {fileID: 8300000, guid: 8dfb594bacf3b2e40a104097729ce628, type: 3}
+    - {fileID: 8300000, guid: f537f5b38a04cd04e9746eb3027ce28f, type: 3}
+    - {fileID: 8300000, guid: 4c57c13f71f6bdd4280c519f82d2bbff, type: 3}
